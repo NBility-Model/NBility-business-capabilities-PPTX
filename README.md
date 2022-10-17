@@ -1,9 +1,9 @@
-# NBility-business-capabilities-XML
+# NBility-business-capabilities-PPTX
 
-This repo contains NBility-business-capabilities model in XML format. 
+This repo contains NBility-business-capabilities model in PPTX format. 
 
 # Installation 
-The use the NBility-business-capabilities you need [Archi](https://www.archimatetool.com/) or other archimate tool. 
+The use the NBility-business-capabilities you need Powerpoint.
 
 ## License
 This project is licensed under the ???? - see [LICENSE](LICENSE) for details.
