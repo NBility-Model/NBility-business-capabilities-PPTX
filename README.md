@@ -6,7 +6,7 @@ This repo contains NBility-business-capabilities model in PPTX format.
 The use the NBility-business-capabilities you need Powerpoint.
 
 # License
-This project is licensed - see [LICENSE](LICENSE) for details.
+This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
 
 # Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests to us.
